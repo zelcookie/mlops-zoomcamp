@@ -133,7 +133,7 @@ Now run the script with docker. What's the mean predicted duration
 for April 2021? 
 
 
-* 9.96
+*  **9.96**
 * 16.55
 * 25.96
 * 36.55
